@@ -8,3 +8,13 @@ C:\Users\Ростислав\source\repos\LabaKG1\obj\Debug\LabaKG1.csproj.Genera
 C:\Users\Ростислав\source\repos\LabaKG1\obj\Debug\LabaKG1.csproj.CoreCompileInputs.cache
 C:\Users\Ростислав\source\repos\LabaKG1\obj\Debug\LabaKG1.exe
 C:\Users\Ростислав\source\repos\LabaKG1\obj\Debug\LabaKG1.pdb
+C:\Users\Ростислав\Documents\GitHub\SCOI\LabaSCOI1\bin\Debug\LabaKG1.exe.config
+C:\Users\Ростислав\Documents\GitHub\SCOI\LabaSCOI1\bin\Debug\LabaKG1.exe
+C:\Users\Ростислав\Documents\GitHub\SCOI\LabaSCOI1\bin\Debug\LabaKG1.pdb
+C:\Users\Ростислав\Documents\GitHub\SCOI\LabaSCOI1\obj\Debug\LabaKG1.csproj.AssemblyReference.cache
+C:\Users\Ростислав\Documents\GitHub\SCOI\LabaSCOI1\obj\Debug\LabaKG1.Form1.resources
+C:\Users\Ростислав\Documents\GitHub\SCOI\LabaSCOI1\obj\Debug\LabaKG1.Properties.Resources.resources
+C:\Users\Ростислав\Documents\GitHub\SCOI\LabaSCOI1\obj\Debug\LabaKG1.csproj.GenerateResource.cache
+C:\Users\Ростислав\Documents\GitHub\SCOI\LabaSCOI1\obj\Debug\LabaKG1.csproj.CoreCompileInputs.cache
+C:\Users\Ростислав\Documents\GitHub\SCOI\LabaSCOI1\obj\Debug\LabaKG1.exe
+C:\Users\Ростислав\Documents\GitHub\SCOI\LabaSCOI1\obj\Debug\LabaKG1.pdb

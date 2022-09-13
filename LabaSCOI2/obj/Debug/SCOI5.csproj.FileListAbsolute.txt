@@ -1,0 +1,10 @@
+C:\Users\Ростислав\source\repos\SCOI5\bin\Debug\SCOI5.exe.config
+C:\Users\Ростислав\source\repos\SCOI5\bin\Debug\SCOI5.exe
+C:\Users\Ростислав\source\repos\SCOI5\bin\Debug\SCOI5.pdb
+C:\Users\Ростислав\source\repos\SCOI5\obj\Debug\SCOI5.csprojAssemblyReference.cache
+C:\Users\Ростислав\source\repos\SCOI5\obj\Debug\SCOI5.Form1.resources
+C:\Users\Ростислав\source\repos\SCOI5\obj\Debug\SCOI5.Properties.Resources.resources
+C:\Users\Ростислав\source\repos\SCOI5\obj\Debug\SCOI5.csproj.GenerateResource.cache
+C:\Users\Ростислав\source\repos\SCOI5\obj\Debug\SCOI5.csproj.CoreCompileInputs.cache
+C:\Users\Ростислав\source\repos\SCOI5\obj\Debug\SCOI5.exe
+C:\Users\Ростислав\source\repos\SCOI5\obj\Debug\SCOI5.pdb
