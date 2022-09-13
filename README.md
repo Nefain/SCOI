@@ -17,14 +17,14 @@
 * Редактор   
 
 <p align="center">
-  <img alt="Редактор" src="https://github.com/aggink/DigitalImagingSystems/blob/main/Images/Editor.jpg">
+  <img alt="Редактор" src="https://github.com/Nefain/SCOI/tree/main/Images/ImagesEditor.jpg">
 </p>
 
 ---
 * Частотная фильтрация
 
 <p align="center">
-  <img alt="Частотная фильтрация" src="https://github.com/aggink/DigitalImagingSystems/blob/main/Images/FrequencyFiltering.jpg">
+  <img alt="Частотная фильтрация" src="https://github.com/Nefain/SCOI/tree/main/Images/FrequencyFiltering.jpg">
 </p>
 
 ---
