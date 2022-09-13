@@ -17,14 +17,14 @@
 * Редактор   
 
 <p align="center">
-  <img alt="Редактор" src="https://github.com/Nefain/SCOI/tree/main/Images/ImagesEditor.jpg">
+  <img alt="Редактор" src="https://github.com/Nefain/SCOI/blob/main/Images/ImagesEditor.png">
 </p>
 
 ---
 * Частотная фильтрация
 
 <p align="center">
-  <img alt="Частотная фильтрация" src="https://github.com/Nefain/SCOI/tree/main/Images/FrequencyFiltering.jpg">
+  <img alt="Частотная фильтрация" src="https://github.com/Nefain/SCOI/blob/main/Images/FrequencyFiltering.png">
 </p>
 
 ---
